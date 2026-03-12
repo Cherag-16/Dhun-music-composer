@@ -246,5 +246,4 @@ For issues, questions, or suggestions:
 ---
 
 **Dhun AI** - Creating beautiful classical melodies with AI and ancient wisdom 🎵
-#   D h u n - m u s i c - c o m p o s e r  
- 
+#
